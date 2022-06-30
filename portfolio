@@ -1,0 +1,32 @@
+# Practicas Preprofesionales
+## Proyecto; consumo a una API => langinPage Vanila JS
+Postman
+JavaScript
+Html, css-Grid Flex
+Responsice
+
+### Investigacion 
+¿Que es una API?
+Se utilizan para integrar nuevas aplicaciones con los sistemas de software existentes,
+aumenta la velocidad de desarrollo, ya que no hay que escribir cada funcionalidad desde cero, 
+ se puede utilizar para aprovechar el código existente.
+  
+¿Estados https 400 402 400 Server?
+Indica que el servidor no puede o no quiere procesar la solicitud
+debido a algo que se percibe como un error del cliente.
+
+¿Node Javascript?
+está diseñado para crear aplicaciones network escalables
+
+¿Metodos Post Get?
+Se utilizan para enviar los datos al servidor
+
+#### Git en Windows 10
+Branch Ramas
+Remote
+ssh Key.gen
+Pull
+Pushh
+commit
+add .
+Pull request
